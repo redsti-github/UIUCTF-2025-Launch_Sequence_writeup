@@ -66,7 +66,7 @@ It took me several attempts to figure out how to correctly execute the program, 
  3. connect the keypad display using `../bin/yaDSKY` while in the `Resources` directory. Also, make sure that only one instance of `yaAGC` is running, else `yaDSKY` will connect to the wrong one.
 
 Finally running the code, we see that it is... *drumroll please*... Tetris!
-[image of DKSY tetris here]
+![](AGC_tetris.jpg)
 The display is slightly confusing at first, encoding two blocks into each 7 segment number using 9, 6 or 8 depending on whether the "higher" or "lower" or both blocks are present, respectively.
 We can move the falling block using 4 and 6 on the keypad, aswell as rotating by 90, 180 and 270 degrees using keys 2, 5 and 8.
 
