@@ -35,7 +35,7 @@ y4rDa074
  	DV	1427
  	LXCH	1426
 ```
-Alomg with a description of:
+Along with a description of:
 ```
 All systems ready for launch, captain. You just need to input the passcode.
 What do you mean you lost it? Wait, are you playing games?? How did you even get that on here???
